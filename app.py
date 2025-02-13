@@ -1,4 +1,4 @@
-from book import BOOK
+from minbok import adventure as BOOK
 
 def input_int(prompt):
     while True:
