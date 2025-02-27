@@ -6,7 +6,7 @@ format = [
         "options": [
             {"text": "Option 1 with next page id", "next_id": 2},
             {"text": "Option 2 with next page id", "next_id": 3},
-        ],
+        ], 
     },
 ]
 BOOK = [
